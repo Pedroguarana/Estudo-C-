@@ -1,0 +1,14 @@
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\Grades.Tests\obj\Debug\Grades.Tests.pdb

@@ -4,3 +4,9 @@ c:\users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\GradeBook
 c:\users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
 c:\users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.exe
 c:\users\pedro.guarana\documents\visual studio 2015\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\pedro.guarana\Documents\GitHub\Estudo-C-\GradeBook\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
